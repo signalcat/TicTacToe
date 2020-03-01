@@ -1,0 +1,17 @@
+.square {
+    font-size: 80px;
+    height: 100px;
+    width: 33%;
+    border: solid 1px black;
+    border-collapse: separate;
+}
+
+.board {
+    margin: auto;
+    border: 1px solid black;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
